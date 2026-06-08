@@ -1,70 +1,55 @@
-
-# Decision Log – ProjectPulse AI
+# Decision Log Documentation
 
 ## Overview
 
-This document captures key product decisions made during the lifecycle of ProjectPulse AI – When Plans Break & Decisions Begin.
+This folder contains the decision management framework used within **ProjectPulse AI – When Plans Break & Decisions Begin**.
 
-It records what was decided, why it was decided, alternatives considered, and the impact of each decision to ensure transparency and traceability in product thinking.
-
----
-
-## Decision Log Table
-
-| Decision ID | Date | Decision Area | Decision Made | Reason for Decision | Alternatives Considered | Impact | Risk / Trade-off | Owner |
-|-------------|------|---------------|---------------|---------------------|--------------------------|--------|------------------|--------|
-| D-001 | YYYY-MM-DD | Roadmap Prioritization | Prioritized AI Risk Prediction over Automation Features | Higher business value from early risk detection | Full automation, Manual reporting enhancement | Faster risk visibility for stakeholders | Reduced focus on automation scope | Product Manager |
-| D-002 | YYYY-MM-DD | Data Strategy | Use centralized data model instead of distributed sources | Need for consistent AI insights | Multiple data integrations | Improved data consistency | Higher initial setup complexity | Product Manager |
-| D-003 | YYYY-MM-DD | KPI Definition | Focus on delivery and risk KPIs only in Phase 1 | Avoid KPI overload in early stage | Full KPI suite across portfolio | Faster implementation of core metrics | Limited early-stage visibility scope | PMO / Product Manager |
+The purpose of these documents is to provide transparency, traceability, and accountability for key product, delivery, and strategic decisions made during uncertain or changing project conditions.
 
 ---
 
-## Decision Categories
+## Documents Included
 
-### 1. Product Decisions
-Feature prioritization, scope definition, roadmap changes
+### Decision Log Register
 
-### 2. AI Decisions
-Model usage, prediction logic direction, AI feature prioritization
+Captures major product, delivery, AI, and governance decisions including rationale, alternatives considered, impacts, and trade-offs.
 
-### 3. Delivery Decisions
-Timeline adjustments, sprint scope changes, release planning
+### Decision Framework
 
-### 4. Risk Decisions
-Mitigation approach, escalation handling, risk acceptance
+Defines the evaluation criteria and decision-making principles used to assess options and select the most appropriate course of action.
 
----
+### Decision Review Log
 
-## Decision Principles
-
-- Prioritize business value over feature volume
-- Reduce complexity in early phases
-- Favor early visibility over perfect accuracy
-- Balance speed vs quality based on risk impact
-- Align decisions with stakeholder outcomes
+Tracks decision outcomes, lessons learned, and whether expected results were achieved after implementation.
 
 ---
 
-## Decision Impact Tracking
+## Key Deliverables
 
-Each decision should be evaluated based on:
-
-- Delivery impact
-- Business value impact
-- Risk exposure
-- User/stakeholder impact
-
----
-
-## Success Criteria
-
-- Clear traceability of all major product decisions
-- Improved stakeholder alignment
-- Reduced ambiguity in roadmap changes
-- Better understanding of trade-offs over time
+- Decision Tracking Framework
+- Decision Evaluation Criteria
+- Decision Outcome Reviews
+- Lessons Learned Repository
+- Decision Governance Process
 
 ---
 
-## Expected Outcome
+## Key Outcomes
 
-A structured decision-making record that demonstrates how Project Managers navigate uncertainty, balance trade-offs, and drive product outcomes even when plans change or break.
+- Improved decision transparency
+- Better stakeholder alignment
+- Structured decision-making under uncertainty
+- Clear visibility into trade-offs and impacts
+- Continuous improvement through decision reviews
+
+---
+
+## Related Sections
+
+- Assumptions Register
+- Trade-off Framework
+- Scenario Planning
+- Crisis Decision Playbooks
+- Executive Overview
+
+These artifacts provide the foundation for making informed, transparent, and business-aligned decisions when plans change and uncertainty impacts product delivery.
