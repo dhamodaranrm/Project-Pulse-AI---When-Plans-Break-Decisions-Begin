@@ -1,4 +1,4 @@
-# Project Pulse AI – When Plans Break & Decisions Begin
+# ProjectPulse AI – When Plans Break & Decisions Begin
 
 ## Overview
 
@@ -8,72 +8,57 @@ While most product documentation focuses on structured delivery, this project fo
 
 > When assumptions fail, timelines shift, data is incomplete, and priorities change — how does a Product Manager make decisions?
 
----
-
-## Why this exists
-
-In real-world product environments:
-
-- Roadmaps change frequently
-- Assumptions break under real usage
-- Data is incomplete or unreliable
-- Stakeholder priorities shift
-- Delivery constraints force trade-offs
-
-This repository models how Product Managers respond in such situations.
 
 ---
 
-## Core Focus Areas
+## Purpose
 
-### Decision Log
-Captures key product decisions, why they were made, and what alternatives were considered.
-
-### Assumptions Register
-Documents assumptions behind product strategy, AI models, and delivery planning.
-
-### Trade-off Framework
-Defines how scope, time, quality, and resources are balanced during constraints.
-
-### Scenario Thinking
-Explores “what-if” situations where plans do not execute as expected.
-
-### Crisis Decision Handling
-Models how decisions are made when delivery risks or failures occur.
+To demonstrate structured Product Management decision-making in environments where plans evolve, risks emerge, and execution requires continuous adaptation.
 
 ---
 
-## What this repository demonstrates
+## Repository Structure
 
-- Decision-making under uncertainty
-- Product thinking in real-world constraints
-- Trade-off prioritization skills
-- Strategic adaptability
-- Risk-aware product management
+### 📌 Executive Overview
+Product vision, problem statement, objectives, and strategic approach.
+
+### 📌 Decision Log
+Records key product decisions, rationale, and outcomes.
+
+### 📌 Assumptions Register
+Tracks assumptions that influence strategy, delivery, and product direction.
+
+### 📌 Trade-off Framework
+Documents prioritization decisions and competing constraints.
+
+### 📌 Scenario Planning
+Explores potential execution challenges and response strategies.
+
+### 📌 Crisis Decision Playbooks
+Provides structured approaches for handling delivery disruptions and critical risks.
 
 ---
 
-## Key Insight
-
-> A Product Manager is not defined by how well they follow a plan — but by how effectively they adapt when the plan fails.
-
----
-
-## Relationship to ProjectPulse AI (Main Project)
+## Relationship to ProjectPulse AI
 
 This repository complements:
 
 **ProjectPulse AI – Predictive Project Governance & Delivery Intelligence Platform**
 
-- That project = structured execution
-- This project = real-world uncertainty handling
+- Main Project → Planning, execution, governance, and monitoring
+- This Project → Decision-making, adaptation, and uncertainty management
 
-Together they demonstrate:
-> End-to-end Product Management capability
+Together they represent a complete Product Management lifecycle.
+
+---
+
+## Key Insight
+
+> Product success is not determined by how closely a plan is followed, but by how effectively decisions are made when reality challenges the plan.
 
 ---
 
 ## Author
 
 **Dhamodaran RM**  
-Product & Project Management | AI-Driven Delivery Intelligence Concepts
+Product & Project Management | Decision Intelligence & Product Strategy
