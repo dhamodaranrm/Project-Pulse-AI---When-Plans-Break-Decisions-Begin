@@ -9,7 +9,6 @@ While most product documentation focuses on structured delivery, this project fo
 > When assumptions fail, timelines shift, data is incomplete, priorities change, and crises emerge — how does a Product Manager make decisions?
 
 ---
-
 ## Purpose
 
 To demonstrate structured Product Management decision-making in environments where plans evolve, risks emerge, and execution requires continuous adaptation.
